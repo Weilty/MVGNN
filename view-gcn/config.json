@@ -1,0 +1,1 @@
+{"name": "view-gcn", "batchSize": 4, "num_models": 0, "lr": 0.001, "weight_decay": 0.001, "no_pretraining": false, "cnn_name": "resnet18", "num_views": 20, "train_path": "/media/1.8T/pjs/MRNet-v1.0/new-MRNet/*/train", "val_path": "/media/1.8T/pjs/MRNet-v1.0/new-MRNet/*/test", "train": false}
