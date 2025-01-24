@@ -15,9 +15,7 @@ This code is tested on Python 3.6 and Pytorch 1.0 +
 
 ### Command for training:
 
-`python train.py -name view-gcn -num_models 0 -weight_decay 0.001 -num_views 20 -cnn_name resnet18`
-
-The code is heavily borrowed from [[mvcnn-new]](https://github.com/jongchyisu/mvcnn_pytorch).
+`python train.py -name view-gcn -num_models 0 -weight_decay 0.001 -num_views 30 -cnn_name resnet18`
 
 ## The Prediction Results 
 
