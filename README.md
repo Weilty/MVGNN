@@ -22,3 +22,5 @@ This code is tested on Python 3.6 and Pytorch 1.0 +
 This table presents the experimental results of different methods on the ACL and Men datasets. The evaluation metrics include AUC, Accuracy, Recall, Precision, and FPS. MVGNN performs outstandingly on multiple metrics. In the ACL dataset, its AUC reaches 0.980, and the Accuracy is 0.914, etc. In the Men dataset, the Accuracy is 0.790, etc. It shows significant advantages or competitiveness compared with methods such as MRNet, Swin, MVCNN, and GVCNN. 
 
 ![image](https://github.com/Weilty/MVGNN/blob/main/figures/result.png)
+
+The code is heavily borrowed from [mvcnn-new](https://github.com/jongchyisu/mvcnn_pytorch)
